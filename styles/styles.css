@@ -35,3 +35,67 @@
     padding-top: 25px;
     
 }
+
+
+
+
+
+.featured-flowers{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.featured-flowers-img{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+
+.featured-flowers-img-1{
+    background-color: rgb(240, 199, 206);
+    height:400px;
+    width: 300px;
+    border-radius: 150px 150px 0px 0px;
+}
+.featured-flowers-img-2{
+    background-color: rgb(200, 237, 248);
+    height:400px;
+    width: 300px;
+    border-radius: 150px 150px 0px 0px;
+}
+.featured-flowers-img-3{
+    background-color: rgb(203, 213, 214);
+    height:400px;
+    width: 300px;
+    border-radius: 150px 150px 0px 0px;
+}
+
+.featured-flowers-img-1 img{
+   
+    height:300px;
+    width: 200px;
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.featured-flowers-img-2 img{
+   
+    height:300px;
+    width: 200px;
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+}
+.featured-flowers-img-3 img{
+   
+    height:300px;
+    width: 200px;
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
