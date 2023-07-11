@@ -5,6 +5,8 @@
 }
 
 
+/* header section */
+
 .background{
     height: 60vh;
     background-color: rgb(252, 217, 224);
@@ -113,5 +115,30 @@
 }
 
 
+/*  Hot Deal ! Sale Up To 25% Off section  */
 
 
+.hot-deal-background{
+    height: 60vh;
+    background-color: rgb(255, 241, 244);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.hot-deal-text{
+    color: red;
+}
+.hot-deal-h{
+    padding-bottom: 20px;
+}
+.hot-deal-p{
+    padding-bottom: 20px;
+}
+
+
+.hot-deal-img{
+    height: 300px;
+    width: 250px;
+    padding-top: 25px;
+}
