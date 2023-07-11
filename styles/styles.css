@@ -9,7 +9,7 @@
 /* header section */
 
 .background{
-    height: 64vh;
+    height: 60vh;
     background-color: rgb(252, 217, 224);
     display: flex;
     justify-content: space-around;
@@ -36,7 +36,7 @@
 .img-first img{
     height: 350px;
     width: 300px;
-    padding-top: 50px;
+    padding-top: 25px;
     
 }
 
