@@ -142,3 +142,25 @@
     width: 250px;
     padding-top: 25px;
 }
+
+
+/*  Instagram section  */
+
+.instagram{
+    padding-top: 60px;
+    text-align: center;
+}
+.instagram-p{
+    padding-top: 20px;
+}
+
+.instagram-img{
+    padding-top:30px;
+    text-align: center;
+
+}
+
+.instagram-img-1{
+    height:300px;
+    width: 250px;
+}
