@@ -212,3 +212,37 @@
     background-color: palevioletred;
     color: white;
 }
+
+
+/*  FlowerShop section  */
+
+.flower-shop-footer{
+    padding-top: 50px;
+}
+
+.flower-shop-background{
+    height: 40vh;
+    background-color: black;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.flower-style{
+    color: palevioletred;
+    
+}
+
+.shop-style{
+    color: white;
+    
+}
+
+.flower-shop-p{
+    color: white;
+    padding-top: 20px;
+}
+
+.flower-shop-small-p{
+    color: rgb(163, 146, 146);
+    padding-top: 20px;
+}
