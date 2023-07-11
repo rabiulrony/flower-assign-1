@@ -2,6 +2,7 @@
     margin: auto;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -17,6 +18,7 @@
 
 .first-text-h{
     padding-bottom: 20px;
+    font-size: 35px;
 }
 
 .first-text-p{
@@ -131,6 +133,7 @@
 }
 .hot-deal-h{
     padding-bottom: 20px;
+    
 }
 .hot-deal-p{
     padding-bottom: 20px;
@@ -163,4 +166,49 @@
 .instagram-img-1{
     height:300px;
     width: 250px;
+}
+
+
+
+/*  Get The Latest Deals section */
+.latest-deals-section{
+    padding-top: 60px;
+    
+}
+.latest-deals-background{
+    height: 45vh;
+    background-image: url("/images/Flower Asset/Rectangle\ 9.png");
+    width: 1010px;
+    border-radius: 5px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    
+}
+
+.latest-deals-h{
+    padding-bottom: 10px;
+}
+
+.latest-deals-p{
+    padding-bottom: 20px;
+}
+
+.latest-deals-input-email{
+    width: 400px;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 5px;
+
+}
+
+.latest-deals-input-subscribe{
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: palevioletred;
+    color: white;
 }
